@@ -51,3 +51,9 @@ php artisan migrate
 
 # Step 7: Start the local development server
 php artisan serve
+
+
+```
+
+![Dashboard]([https://github.com/KaziSifatAlMaksud/medico/blob/main/screenshots/dashboard.png](https://github.com/user-attachments/assets/297e6c09-826e-4975-b7ba-4dc5e3ec03d2))
+
