@@ -54,6 +54,6 @@ php artisan serve
 
 
 ```
+<p align="center"> <img src="https://github.com/user-attachments/assets/297e6c09-826e-4975-b7ba-4dc5e3ec03d2" alt="deshbord" width="600" > </p>
 
-https://github.com/user-attachments/assets/297e6c09-826e-4975-b7ba-4dc5e3ec03d2
 
