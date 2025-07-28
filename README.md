@@ -1,7 +1,7 @@
-# Create the README.md content for the Medico Laravel project
-🏥 Medico – Medical Field SaaS Application
+# Create the README.md content for the HealCerify Laravel project
+🏥 HealCerify – Medical Field SaaS Application
 
-**Medico** is a SaaS-based Laravel application designed to manage essential operations in the medical field, including appointments, doctor-patient interactions, medical records, and more. It aims to streamline clinical processes for hospitals, diagnostic centers, and independent practitioners.
+**HealCerify** is a SaaS-based Laravel application designed to manage essential operations in the medical field, including appointments, doctor-patient interactions, medical records, and more. It aims to streamline clinical processes for hospitals, diagnostic centers, and independent practitioners.
 
 ---
 
@@ -32,10 +32,10 @@
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/KaziSifatAlMaksud/medico.git
+git clone https://github.com/KaziSifatAlMaksud/HealCerify.git
 
 # Step 2: Navigate to the project directory
-cd medico
+cd HealCerify
 
 # Step 3: Install Laravel dependencies
 composer install
