@@ -1,5 +1,5 @@
 # Create the README.md content for the Medico Laravel project
-readme_content = """# 🏥 Medico – Medical Field SaaS Application
+🏥 Medico – Medical Field SaaS Application
 
 **Medico** is a SaaS-based Laravel application designed to manage essential operations in the medical field, including appointments, doctor-patient interactions, medical records, and more. It aims to streamline clinical processes for hospitals, diagnostic centers, and independent practitioners.
 
@@ -55,5 +55,5 @@ php artisan serve
 
 ```
 
-![Dashboard]([https://github.com/KaziSifatAlMaksud/medico/blob/main/screenshots/dashboard.png](https://github.com/user-attachments/assets/297e6c09-826e-4975-b7ba-4dc5e3ec03d2))
+https://github.com/user-attachments/assets/297e6c09-826e-4975-b7ba-4dc5e3ec03d2
 
